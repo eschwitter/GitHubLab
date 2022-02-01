@@ -1,0 +1,17 @@
+    1  cd GitHubLab/
+    2  ls
+    3  git status
+    4  git add --all
+    5  git status
+    6  git commit
+    7  git commit -m "Added information about birds, insects, and reptiles."
+    8  git status
+    9  git push
+   10  history --help
+   11  history
+   12  man history
+   13  history -h
+   14  history --all
+   15  history
+   16  cat history >> commands.txt
+   17   history >> commands.txt
