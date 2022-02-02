@@ -1,7 +1,7 @@
     1  git --version
     2  git config --global user.name eschwitter
     3  git config --global user.email eschwitt@gmail.com
-    4  git clone 
+    4  git clone https://github.com/eschwitter/GitHubLab.git
     5  cd GitHubLab/
     6  ls
     7  git status
