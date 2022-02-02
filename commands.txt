@@ -1,17 +1,21 @@
-    1  cd GitHubLab/
-    2  ls
-    3  git status
-    4  git add --all
-    5  git status
-    6  git commit
-    7  git commit -m "Added information about birds, insects, and reptiles."
-    8  git status
-    9  git push
-   10  history --help
-   11  history
-   12  man history
-   13  history -h
-   14  history --all
+    1  git --version
+    2  git config --global user.name eschwitter
+    3  git config --global user.email eschwitt@gmail.com
+    4  git clone 
+    5  cd GitHubLab/
+    6  ls
+    7  git status
+    8  git add --all
+    9  git status
+   10  git commit
+   11  git commit -m "Added information about birds, insects, and reptiles."
+   12  git status
+   13  git push
+   14  history --help
    15  history
-   16  cat history >> commands.txt
-   17   history >> commands.txt
+   16  man history
+   17  history -h
+   18  history --all
+   19  history
+   20  cat history >> commands.txt
+   21   history >> commands.txt
